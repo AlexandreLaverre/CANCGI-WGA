@@ -1,3 +1,5 @@
+Scripts to produce the whole-genome alignment of Carnivora species used in "High prevalence of Prdm9-independent recombination hotspots in placental mammals" Joseph et al. 2023
+
 # 1 - Download all the genomes according to the species table in "data/genome_assemblies.txt".
 run "get.genome.assembly.sh" will create a folder for each species containing the genome.
 
