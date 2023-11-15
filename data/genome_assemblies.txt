@@ -1,0 +1,20 @@
+ScientificName	CommonName 	GenomeVersion	AssemblyLevel	N50	L50	Annotations
+Puma_concolor	Puma	PumCon1.0	Scaffold	100532876	8	RefSeq
+Canis_lupus_familiaris	Dog	CanFam3.1	Chromosome	45876610	20	Ensembl
+Canis_lupus_lupus	Grey wolf	mCanLor1.2	Chromosome	65778685	15	
+Lycaon_pictus	Lycaon	LycPicSAfr1.0	Chromosome	63240551	15	
+Vulpes_lagopus	Arctic fox	ASM1834538v1	Chromosome	131537142	8	RefSeq
+Otocyon_megalotis_megalotis	Bat-eared fox	Otocyon_megalotis_TS305_17_09_2019	Scaffold	728073	920	
+Nyctereutes_procyonoides	Raccoon dog	NYPRO_anot_genome	Scaffold	53950811	17	GenBank
+Vulpes_vulpes	Red fox	VulVul2.2	Scaffold	12472085	55	RefSeq
+Mirounga_leonina	Southern elephant seal	KU_Mleo_1.0	Scaffold	54232831	16	RefSeq/GenBank
+Leptonychotes_weddellii	Weddell seal 	LepWed1.0	Scaffold	904031	921	RefSeq
+Halichoerus_grypus	Gray seal 	Tufts_HGry_1.1	Scaffold	1033864	637	RefSeq
+Neomonachus_schauinslandi	Hawaïan monk seal	ASM220157v1	Scaffold	29518589	27	RefSeq
+Phoca_vitulina	Harbor seal	GSC_HSeal_1.0	Scaffold	41024070	18	RefSeq
+Panthera_pardus	Leopard	PanPar1.0	Scaffold	21701857	39	Ensembl
+Panthera_leo	Lion	PanLeo1.0	Chromosome	136051765	8	Ensembl
+Lynx_canadensis	Canada lynx	mLynCan4.pri.v2	Chromosome	147275701	7	Ensembl
+Prionailurus_viverrinus	Fishing cat	PriViv1.0	Scaffold	3068410	225	
+Felis_catus	Domestic cat	Felis_catus_9.0	Chromosome	83067707	11	Ensembl
+Acinonyx_jubatus	Cheetah	Aci_jub_2	Scaffold	48500042	15	RefSeq
