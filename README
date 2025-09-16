@@ -1,4 +1,10 @@
-Scripts to produce the whole-genome alignment of Carnivora species used in "High prevalence of Prdm9-independent recombination hotspots in placental mammals" Joseph et al. 2023
+# CANCGI - WGA
+
+This repository contains the code to produce the whole-genome alignment of Carnivora species used in the study:
+**"High prevalence of Prdm9-independent recombination hotspots in placental mammals"**
+[Joseph et al. 2023, *PNAS*](https://www.pnas.org/doi/10.1073/pnas.2401973121)
+
+## Project Overview
 
 # 1 - Download all the genomes according to the species table in "data/genome_assemblies.txt".
 run "get.genome.assembly.sh" will create a folder for each species containing the genome.
@@ -15,3 +21,10 @@ run "run.cactus.Ancestors.sh" will create the root alignment of the 3 ancestors
 
 # 5 - Obtain the final complete alignment
 run "merge.subAlignment.to.Ancestors.sh" for each clade iteratively adds the sub-alignment to the root alignment at the corresponding ancestral node.
+
+
+## Citation
+
+If you use this code, please cite:
+
+> J. Joseph, D. Prentout, A. Laverré, T. Tricou, & L. Duret, High prevalence of PRDM9-independent recombination hotspots in placental mammals, Proc. Natl. Acad. Sci. U.S.A. 121 (23) e2401973121, https://doi.org/10.1073/pnas.2401973121 (2024). 
