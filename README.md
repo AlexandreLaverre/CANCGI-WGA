@@ -1,6 +1,7 @@
 # CANCGI - WGA
 
 This repository contains the code to produce the whole-genome alignment of Carnivora species used in the study:
+
 **"High prevalence of Prdm9-independent recombination hotspots in placental mammals"**
 [Joseph et al. 2023, *PNAS*](https://www.pnas.org/doi/10.1073/pnas.2401973121)
 
